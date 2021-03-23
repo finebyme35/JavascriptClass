@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Basic Javascript</title>
+
+    <script type="text/javascript"> 
+        class Person {
+            constructor(ad, soyad) {
+                this.ad;
+                this.soyad;
+                
+            }
+            
+
+        }
+        class Wallet extends Person{
+            constructor(ad, soyad, wallet) {
+                super(ad, soyad);
+                this.wallet;
+            }
+            adiniSoyle() {
+                return `benim adım ${this.ad} soyadım ${this.soyad} cüzdanım ${this.wallet}`;
+            }
+        }
+        const oguz = new Wallet();
+        oguz.ad = "Oguz";
+        oguz.soyad = "Hello";
+        oguz.wallet = "Benim cüzdanım";
+        console.log(oguz.adiniSoyle());
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
