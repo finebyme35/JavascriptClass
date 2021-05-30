@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ISrqVFZO/FKYBsKcvdF4qmTKBn3YI5SWJ+PAWBuG2PrP4s369W/dg/w9zdK8Q0+MiKcOeBHnMr/hDEGkpdutCw==",
+  "dgSpecHash": "Eu20AohcC2jX2VIjP71ri5VA/YGRnNHLAUewijvH/xtsF0r/VbtUJG+bjOfhZ6UshjKvSgJJEYidLxXVM6U5SA==",
   "success": true,
-  "projectFilePath": "D:\\Appointment\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Activity\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crabo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\crabo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

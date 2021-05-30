@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Appointment\\Domain\\Domain.csproj": {}
+    "D:\\Activity\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Appointment\\Domain\\Domain.csproj": {
+    "D:\\Activity\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Appointment\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Activity\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Appointment\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Activity\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\crabo\\.nuget\\packages\\",
-        "outputPath": "D:\\Appointment\\Domain\\obj\\",
+        "outputPath": "D:\\Activity\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
